@@ -6,7 +6,6 @@
 ## 📌 Project Overview  
 This Power BI dashboard **analyzes Google Trends data** to explore search interest and consumer behavior around Valentine's Day. It highlights **how search volume fluctuates over the years**, **regional interest variations**, and the **most popular & rising queries leading up to February 14th**.  
 
-🔗 **[View the full dashboard on Notion]([https://www.notion.so/Title-Valentine-s-Day-Search-Trends-Consumer-Interest-Analysis-1a8c4022a45580f49493f25fb09f39d2?pvs=4])**  
 
 ## 🔍 Key Insights  
 ✔ **Search Interest Peaks in Early February** – Interest surges a few days before Valentine’s Day, indicating a clear buying intent window.  
@@ -31,4 +30,4 @@ This Power BI dashboard **analyzes Google Trends data** to explore search intere
 
 ---
 
-🎯 **Created by [Modupe Eyinla] | Connect on [LinkedIn]([https://www.linkedin.com/in/modupeeyinla/])**
+🎯 **Created by [Modupe Eyinla] | Connect on [LinkedIn](https://www.linkedin.com/in/modupeeyinla/)**
