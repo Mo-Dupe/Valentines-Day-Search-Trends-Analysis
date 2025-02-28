@@ -1,4 +1,5 @@
-# 🎯 Valentine's Day Search Trends & Consumer Interest Analysis  
+# 🎯 Valentine's Day Search Trends & Consumer Interest Analysis 
+![Valentine's Day Dashboard](https://github.com/Mo-Dupe/Valentines-Day-Search-Trends-Analysis/blob/main/Valentine's%20Day%20Dashboard%20Final.png)  
 
 📊 **Power BI Dashboard | Google Trends Data**  
 
